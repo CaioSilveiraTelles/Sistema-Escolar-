@@ -1,4 +1,4 @@
-# Sistema-Escolar-#
+Sistema-Escolar
 
 Classe Pessoa:
 • Todos os atributos devem ser privados
