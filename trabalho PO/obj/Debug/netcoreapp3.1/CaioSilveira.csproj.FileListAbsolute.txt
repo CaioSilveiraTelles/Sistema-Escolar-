@@ -1,0 +1,11 @@
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.exe
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.deps.json
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.runtimeconfig.json
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.runtimeconfig.dev.json
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.dll
+C:\Users\caio.telles\Desktop\Exer07\bin\Debug\netcoreapp3.1\Exer07.pdb
+C:\Users\caio.telles\Desktop\Exer07\obj\Debug\netcoreapp3.1\Exer07.csprojAssemblyReference.cache
+C:\Users\caio.telles\Desktop\Exer07\obj\Debug\netcoreapp3.1\Exer07.AssemblyInfoInputs.cache
+C:\Users\caio.telles\Desktop\Exer07\obj\Debug\netcoreapp3.1\Exer07.AssemblyInfo.cs
+C:\Users\caio.telles\Desktop\Exer07\obj\Debug\netcoreapp3.1\Exer07.dll
+C:\Users\caio.telles\Desktop\Exer07\obj\Debug\netcoreapp3.1\Exer07.pdb
